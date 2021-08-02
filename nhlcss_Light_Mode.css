@@ -1,0 +1,94 @@
+body {
+  font-family: "Agency FB", sans-serif;
+  background-color: #fafafa;
+  font-weight: bold;
+  /*padding-left: 1.5*/
+}
+
+/*Home*/
+.nhl {
+  background-color: #1a1a1a;
+  color: #fafafa;
+  width: 2.5%
+}
+
+.nhl :hover {
+  background-color: #fafafa;
+  color: black;
+}
+
+.goalies {
+  background-color: #fafafa;
+  width: 100%
+}
+
+.goalies :hover {
+  background-color: #c9c9c9;
+}
+
+.players {
+  background-color: #fafafa;
+}
+
+.players :hover {
+  background-color: #c9c9c9;
+}
+
+.teams {
+  background-color: #fafafa;
+  width: 100%;
+}
+
+.teams :hover {
+  background-color: #c9c9c9;
+}
+
+.move-down {
+  position: relative;
+  top: 1rem;
+  font: Agency FB;
+}
+
+.games {
+  background-color: #fafafa;
+  font: Agency FB;
+}
+
+.games :hover {
+  background-color: #c9c9c9;
+}
+
+.all_teams {
+  background-color: #fafafa;
+  font: Agency FB;
+  width: 35;
+}
+
+.all_teams :hover {
+  background-color: #c9c9c9;
+}
+
+.top_10_teams {
+  font: Agency FB;
+  background-color: #fafafa;
+}
+
+.top_10_teams :hover {
+  background-color: #c9c9c9;
+}
+
+.code {
+  padding-top: 10
+}
+
+.downtop10 {
+  padding-top: 3%
+}
+
+.downgames {
+  padding-top: 3%
+}
+
+.myfunctionfont {
+  font: Agency FB;
+}
